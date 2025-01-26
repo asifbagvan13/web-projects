@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Dicee</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Indie+Flower|Lobster"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Refresh Me</h1>
+      <h2></h2>
+
+      <div class="dice">
+        <p>Player 1</p>
+        <img class="img1" src="" />
+      </div>
+
+      <div class="dice">
+        <p>Player 2</p>
+        <img class="img2" src="images\dice1.png" />
+      </div>
+    </div>
+
+    <footer>www 🎲 App Brewery 🎲 com</footer>
+    <script>
+
+      function random() {
+        var rn = Math.floor(Math.random()*6)+1;
+        return rn;
+      }
+      var n = random();
+  
+
+      var img = "images/dice" +n+".png";
+      document.querySelector(".img1").setAttribute("src",img);
+      var n2 = random();
+      var img2 = "images/dice" +n2+".png";
+      document.querySelector(".img2").setAttribute("src",img2);
+
+      if(n>n2){
+        document.querySelector("h2").innerHTML = "Player 1 Wins";
+      }
+      else if(n2>n){
+        document.querySelector("h2").innerHTML = "player2 wins"
+      }
+      else{
+        document.querySelector("h2").innerHTML = "draw";
+      }
+      
+    </script>
+  </body>
+</html>
