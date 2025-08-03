@@ -1,1 +1,2 @@
-# web-projects
+my Projects from udemy course https://www.udemy.com/course/the-complete-web-development-bootcamp/ by angela yu 
+i tried to copy as instructor did i did 99% of code myself (some are buggy but it works) eveything was provided by angela yu i hadd to extract file  and start coding here is link: https://asifbagvan13.github.io/web-projects/11.3 TinDog Project ,  https://asifbagvan13.github.io/web-projects/Drum Kit Starting Files,  https://asifbagvan13.github.io/web-projects/challange
