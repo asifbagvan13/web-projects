@@ -61,4 +61,34 @@ The **Drum Kit** is a fun and interactive project where users can play different
 - Works on desktop browsers
 
 ---
-project 3:  "https://asifbagvan13.github.io/web-projects/challange/dicee.html"
+
+
+# 🎲 Dicee Game
+
+A fun and simple Dice Game built using HTML, CSS, and JavaScript. This project is part of [Angela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+
+---
+
+## 🔗 Live Demo
+
+"https://asifbagvan13.github.io/web-projects/challange/dicee.html"
+
+
+---
+
+## 🧠 How It Works
+
+- On page load, two random dice are rolled.
+- The dice images are dynamically updated.
+- A message displays the winner: **Player 1**, **Player 2**, or **Draw**.
+- Just **refresh the page** to roll again – no buttons needed!
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
