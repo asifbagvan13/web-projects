@@ -32,6 +32,33 @@ TinDog is a fictional dog dating platform – think Tinder, but for dogs 🐾
 
 ---
 
-## 📂 Project Structure
-project 2: "https://asifbagvan13.github.io/web-projects/Drum Kit Starting Files"
+
+# 🥁 Drum Kit
+
+The **Drum Kit** is a fun and interactive project where users can play different drum sounds by clicking on buttons or using their keyboard. This project is part of [Angela Yu's Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+
+---
+
+## 🌐 Live Demo
+
+"https://asifbagvan13.github.io/web-projects/Drum Kit Starting Files"
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 💡 Features
+
+- Click buttons or press keys to play drum sounds
+- Animated button press effects
+- Clean and simple UI
+- Works on desktop browsers
+
+---
 project 3:  "https://asifbagvan13.github.io/web-projects/challange/dicee.html"
