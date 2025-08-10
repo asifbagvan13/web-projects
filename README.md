@@ -55,12 +55,11 @@ A fun and simple Dice Game built using HTML, CSS, and JavaScript. This project i
 
 ---
 
-## 🔗 Live Demo
-
-"https://asifbagvan13.github.io/web-projects/challange/dicee.html"
-
-
+###  Live Preview  
+[Visit the live demo here](https://asifbagvan13.github.io/web-projects/challange/dicee.html)  
+  
 ---
+
 
 ## 🧠 How It Works
 
