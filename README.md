@@ -1,5 +1,5 @@
 
-# HumanDate — A Sleek Dating Web Landing Page
+# dating-web — A Sleek Dating Web Landing Page
 
 Experience **HumanDate**, a clean and responsive landing page for your next dating app concept.
 
@@ -23,12 +23,12 @@ Experience **HumanDate**, a clean and responsive landing page for your next dati
 
 The **Drum Kit** is a fun and interactive project where users can play different drum sounds by clicking on buttons or using their keyboard. This project is part of [Angela Yu's Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
+
 ---
 
-## 🌐 Live Demo
-[Visit the live demo here](https://asifbagvan13.github.io/web-projects/Drum%20Kit%20Starting%20Files/)
-"https://asifbagvan13.github.io/web-projects/Drum%20Kit%20Starting%20Files/"
-
+###  Live Preview  
+[Visit the live demo here](https://asifbagvan13.github.io/web-projects/Drum%20Kit%20Starting%20Files/)  
+  
 ---
 
 ## 🛠️ Tech Stack
