@@ -1,34 +1,20 @@
 
-# 🐶 TinDog – Tinder for Dogs
+# HumanDate — A Sleek Dating Web Landing Page
 
-This is a fun and responsive front-end project called **TinDog**, built as part of [Angela Yu's Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+Experience **HumanDate**, a clean and responsive landing page for your next dating app concept.
 
-TinDog is a fictional dog dating platform – think Tinder, but for dogs 🐾
-
+###  Live Preview  
+[Visit the live demo here](http://asifbagvan13.github.io/web-projects/dating-web/)  
+  
 ---
 
-## 🌐 Live Preview
+##  Highlights
 
-👉 "https://asifbagvan13.github.io/web-projects/11.3 TinDog Project"
-
----
-
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- Bootstrap 5
-- Font Awesome / Bootstrap Icons
-
----
-
-## 💡 Features
-
-- 📱 Fully responsive layout
-- 🎨 Clean and modern UI using Bootstrap
-- 💬 Testimonial section
-- 💰 Pricing plans
-- 🐕 Dog-themed design for fun learning
+- **Modern, Responsive Design** — Built with HTML, CSS, and Bootstrap for smooth layouts across devices.  
+- **Key Features Showcase** — Sections for "Easy to Use", "Elite Community", and "Guaranteed to Work" to emphasize value.  
+- **Clear Pricing Plans** — Free, Premium, and VIP tiers with intuitive comparisons and call-to-action buttons.  
+- **Testimonial & Trust Signals** — Includes user quotes and press logos to build credibility.  
+:contentReference[oaicite:1]{index=1}
 
 ---
 
