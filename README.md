@@ -26,7 +26,7 @@ The **Drum Kit** is a fun and interactive project where users can play different
 ---
 
 ## 🌐 Live Demo
-
+[Visit the live demo here](https://asifbagvan13.github.io/web-projects/Drum%20Kit%20Starting%20Files/)
 "https://asifbagvan13.github.io/web-projects/Drum%20Kit%20Starting%20Files/"
 
 ---
