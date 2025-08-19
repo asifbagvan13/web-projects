@@ -1,7 +1,7 @@
 
 # dating-web — A Sleek Dating Web Landing Page
 
-Experience **HumanDate**, a clean and responsive landing page for your next dating app concept.
+Experience **Date**, a clean and responsive landing page for your next dating app concept.
 
 ###  Live Preview  
 [Visit the live demo here](http://asifbagvan13.github.io/web-projects/dating-web/)  
